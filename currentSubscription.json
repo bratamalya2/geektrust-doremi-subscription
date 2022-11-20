@@ -1,0 +1,21 @@
+{
+    "MUSIC": {
+        "FREE": false,
+        "PERSONAL": false,
+        "PREMIUM": false
+    },
+    "VIDEO": {
+        "FREE": false,
+        "PERSONAL": false,
+        "PREMIUM": false
+    },
+    "PODCAST": {
+        "FREE": false,
+        "PERSONAL": false,
+        "PREMIUM": false
+    },
+    "TOPUP": {
+        "FOUR_DEVICE": false,
+        "TEN_DEVICE": false
+    }
+}

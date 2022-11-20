@@ -1,0 +1,11 @@
+{
+  "name": "doremi-subscription",
+  "version": "1.0.0",
+  "description": "Geektrust backend challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bratamalya Das Gupta",
+  "license": "ISC"
+}

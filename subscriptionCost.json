@@ -1,0 +1,21 @@
+{
+    "MUSIC": {
+        "FREE": 0,
+        "PERSONAL": 100,
+        "PREMIUM": 250
+    },
+    "VIDEO": {
+        "FREE": 0,
+        "PERSONAL": 200,
+        "PREMIUM": 500
+    },
+    "PODCAST": {
+        "FREE": 0,
+        "PERSONAL": 100,
+        "PREMIUM": 300
+    },
+    "TOPUP": {
+        "FOUR_DEVICE": 50,
+        "TEN_DEVICE": 100
+    }
+}
